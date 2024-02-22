@@ -1,0 +1,3 @@
+[submodule "llamafile"]
+	path = llamafile
+	url = https://github.com/Mozilla-Ocho/llamafile.git
