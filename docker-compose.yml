@@ -1,0 +1,8 @@
+version: "3"
+services:
+  local_copilot_bot:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - "5051:5051"

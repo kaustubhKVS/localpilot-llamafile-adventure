@@ -14,8 +14,10 @@ numpy==1.26.0
 pydantic==2.4.2
 pydantic-settings==2.0.3
 pydantic_core==2.10.1
-pyobjc-core==10.0
-pyobjc-framework-Cocoa==10.0
+# pywin32==300
+# comtypes==1.1.10
+# pyobjc-core==10.0
+# pyobjc-framework-Cocoa==10.0
 python-dotenv==1.0.0
 requests==2.31.0
 rumps==0.4.0
